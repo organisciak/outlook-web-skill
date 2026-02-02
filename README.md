@@ -29,9 +29,8 @@ A Claude Code plugin that enables browser automation of Outlook Web (outlook.off
 ## Prerequisites
 
 **Required:**
-1. **Claude Code CLI** - Install from [anthropic.com/claude-code](https://www.anthropic.com/claude-code)
-
-2. **playwright-cli** - Install the official Playwright CLI plugin:
+1. A took taht supports skills (Claude Code, Codex, OpenClaw)
+3. **playwright-cli** - Install the official Playwright CLI plugin:
    ```bash
    /plugin marketplace add anthropics/playwright-cli-plugin
    /plugin install playwright-cli
