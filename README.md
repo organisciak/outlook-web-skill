@@ -55,6 +55,16 @@ Add the marketplace and install the plugin:
 /plugin install outlook-web
 ```
 
+### Codex (Skill Installer)
+
+Install directly with the Codex skill installer:
+
+```bash
+$skill-installer --repo organisciak/outlook-web-skill --path skills/outlook-web --name outlook-web
+```
+
+Restart Codex to pick up new skills.
+
 ### Manual Installation
 
 For agents without automatic plugin support, install the skill directly:
