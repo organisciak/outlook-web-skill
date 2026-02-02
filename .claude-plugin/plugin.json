@@ -1,0 +1,22 @@
+{
+  "name": "outlook-web",
+  "description": "Access Outlook Web for email and calendar operations - reading, composing (as drafts by default), searching, and managing emails and calendar events via playwright-cli",
+  "version": "1.0.0",
+  "author": {
+    "name": "Peter Organisciak",
+    "email": "organisciak@gmail.com"
+  },
+  "homepage": "https://github.com/organisciak/outlook-web-plugin",
+  "repository": "https://github.com/organisciak/outlook-web-plugin",
+  "license": "MIT",
+  "keywords": [
+    "outlook",
+    "email",
+    "calendar",
+    "automation",
+    "playwright",
+    "office365",
+    "productivity"
+  ],
+  "category": "productivity"
+}
